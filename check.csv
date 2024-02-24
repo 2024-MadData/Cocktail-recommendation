@@ -1,0 +1,527 @@
+,Name,Color,occasion
+397,'Tea' New Fashioned,['green'],"['birthday', 'brunch', 'fall', 'holiday', 'spring', 'summer', 'winter']"
+43,A Warm Welcome,['brown'],"['holiday', 'winter']"
+253,After Midnight in Kentucky,['red'],"['birthday', 'ladies-night']"
+188,Alligator's Kiss,['yellow'],"['ladies-night', 'summer']"
+475,Amaretto Pina Colada,,"['bbq', 'summer', 'tropical']"
+299,Amaretto Sour,['orange'],['thanksgiving']
+321,Amaretto Stone Sour,['orange'],"['birthday', 'fall', 'summer']"
+52,Apple 'N' Rye,['brown'],['fall']
+323,Apple Cider Float,['orange'],"['birthday', 'fall', 'thanksgiving']"
+185,Apple Colada,['yellow'],"['summer', 'summer', 'tropical']"
+474,Apple Daiquiri,,"['bbq', 'summer', 'tropical', 'tropical']"
+423,Apple Fizz,['green'],['bbq']
+62,Apple Highball,['brown'],"['bbq', 'fall']"
+80,Apple Manhattan,['brown'],"['birthday', 'ladies-night', 'ladies-night', 'fall', 'thanksgiving', 'winter']"
+317,Apple Pie,['orange'],"['fall', 'thanksgiving']"
+248,Apples and Bourbon,['red'],"['fall', 'holiday', 'thanksgiving']"
+426,Appletini,['green'],"['fall', 'halloween', 'spring']"
+170,Apri Diem,['yellow'],"['spring', 'summer']"
+67,Apricot Sage Bourbon Cocktail,['brown'],"['spring', 'summer']"
+315,Apricot Sour,['orange'],"['fall', 'spring', 'summer']"
+19,Au-Kee-Ta,['brown'],['fall']
+331,Autumn-tini,['orange'],"['fall', 'thanksgiving']"
+186,Bahama Mama,['yellow'],['bbq']
+217,Baker's Midnight Manhattan,['red'],"['fall', 'holiday', 'thanksgiving']"
+109,Banana Cinnamon Mojito,['brown'],"['spring', 'summer']"
+335,Banana Nana,['orange'],"['summer', 'tropical']"
+153,Banana ‘Nana Daiquiri,['yellow'],"['bbq', 'summer', 'tropical']"
+68,Bardstown Sling,['brown'],"['bbq', 'fall', 'summer', 'thanksgiving']"
+296,Basil Berry Mojito,['orange'],"['bbq', 'spring', 'summer']"
+221,"Basil Hayden
+Boulevardier",['red'],"['fall', 'holiday', 'thanksgiving']"
+4,Basil Hayden's Golden Hour,['brown'],"['fall', 'winter']"
+31,Basil Hayden’s Classic Manhattan,['brown'],['fall']
+457,Bay Breeze,['pink'],"['bbq', 'summer', 'tropical']"
+38,Beam & Hops,['brown'],"['bbq', 'game-day']"
+172,Beam Ade,['yellow'],['summer']
+501,Beam Applebees,,"['fall', 'thanksgiving']"
+128,Bee's Knees,['yellow'],"['spring', 'summer']"
+22,Beer & Loathing,['brown'],"['fall', 'thanksgiving', 'winter']"
+480,Bellini Manhattan,,"['birthday', 'ladies-night', 'holiday', 'new-years', 'valentines-day', 'wedding']"
+260,Berry Burst,['red'],"['bbq', 'birthday', 'ladies-night', 'spring', 'summer']"
+470,Berry Good Shandy,,"['bbq', 'brunch', 'spring', 'summer']"
+233,Berry Moscow Mule,['red'],"['bbq', 'brunch', 'spring', 'summer']"
+23,Berry White,['brown'],"['bbq', 'fall', 'game-day', 'thanksgiving']"
+141,Black & Gold,['yellow'],['game-day']
+245,Black Beauty,['red'],['summer']
+232,Black Cherry Avalanche,['red'],"['bbq', 'spring', 'summer']"
+166,Black Mule,['yellow'],['summer']
+229,Black Sunset,['red'],"['fall', 'spring']"
+492,Blazer,,"['christmas', 'winter']"
+242,Bloody Beam,['red'],['brunch']
+271,Bloody Maria,['red'],['brunch']
+249,Bloody Mark,['red'],['brunch']
+69,Blucumber Fizz,['brown'],"['bbq', 'birthday', 'summer']"
+491,Blue Flurry,,"['christmas', 'fall', 'holiday', 'new-years', 'thanksgiving', 'winter']"
+473,Blue Hawaii,,"['bbq', 'tropical']"
+504,Blue Lagoon,,['game-day']
+467,Blue Lagoon Sangria,,"['bbq', 'spring', 'summer']"
+487,Blue Martini,,"['ladies-night', 'summer', 'summer', 'tropical']"
+506,Blue Mule,,['game-day']
+469,Blue Stallion Julep,,"['bbq', 'brunch', 'spring', 'summer']"
+472,Blueberry Margarita,,"['bbq', 'ladies-night']"
+517,Blues on the Rocks,,"['summer', 'tropical', 'tropical']"
+450,Blushing Margarita,['pink'],"['bbq', 'birthday', 'ladies-night', 'summer', 'summer', 'summer']"
+20,Bobby Burns,['brown'],['fall']
+502,Boozy Pumpkin Milkshake,,"['fall', 'halloween', 'holiday', 'thanksgiving']"
+479,Bourbon Ball,,"['birthday', 'birthday', 'holiday', 'winter']"
+66,Bourbon Bonn Bonn,['brown'],"['holiday', 'winter']"
+478,Bourbon Butter Pecan Milkshake,,"['birthday', 'fall', 'summer']"
+65,Bourbon Cider Cocktail,['brown'],"['fall', 'holiday', 'thanksgiving']"
+289,Bourbon Cider Sour,['orange'],"['fall', 'thanksgiving']"
+500,Bourbon Milk Punch,,"['fall', 'holiday', 'winter']"
+432,Bourbon Renewal,['pink'],"['bbq', 'brunch', 'spring', 'summer']"
+305,Bourbon Sour,['orange'],['summer']
+314,Bourbon Squash,['orange'],"['fall', 'thanksgiving']"
+412,Bourbon Tarragon Cooler,['green'],['summer']
+510,Brain Hemorrhage,,['halloween']
+345,Bruxo Mezcal Mule,['clear'],"['bbq', 'christmas', 'holiday', 'summer']"
+145,Buttershots Old Fashioned,['yellow'],"['fall', 'holiday']"
+101,Buttershots™ Slide,['brown'],"['christmas', 'fall', 'holiday', 'winter']"
+483,Buttery Nipple,,"['birthday', 'ladies-night', 'holiday', 'new-years']"
+8,C.C. & Cola,['brown'],"['fall', 'holiday', 'thanksgiving']"
+36,C.C. & Ginger,['brown'],
+5,CC Ginger Ale,['brown'],"['bbq', 'christmas', 'holiday', 'summer']"
+132,CV The French Twist,['yellow'],['brunch']
+258,Candy Apple,['red'],"['birthday', 'ladies-night', 'fall', 'holiday', 'thanksgiving']"
+272,Candy Apple Margarita,['red'],"['ladies-night', 'summer']"
+424,Caramel Apple Martini,['green'],"['fall', 'halloween', 'thanksgiving']"
+425,Caramel Apple Shot,['green'],"['fall', 'halloween', 'thanksgiving']"
+265,Cherry Margarita,['red'],"['ladies-night', 'summer', 'summer', 'summer']"
+40,Chili Chocolate Orange,['brown'],
+497,Choco-Peppermint Shake,,"['christmas', 'holiday', 'winter']"
+390,Chocolate Covered Berries,['clear'],"['birthday', 'ladies-night', 'spring', 'summer', 'valentines-day']"
+113,Chocolate Covered Cherry,['brown'],"['birthday', 'holiday', 'valentines-day']"
+100,Chocolate Martini,['brown'],"['birthday', 'holiday', 'valentines-day']"
+103,Christmas Mint Kiss,['brown'],"['christmas', 'holiday', 'winter']"
+481,Cinnamon Sugar Cookie,,"['birthday', 'christmas', 'fall', 'holiday', 'winter']"
+81,Citrus Basil Manhattan,['brown'],"['fall', 'spring', 'wedding']"
+359,Citrus Fizz,['clear'],"['birthday', 'ladies-night', 'brunch', 'valentines-day']"
+468,Citrus-Spangled Spritzer,,"['bbq', 'brunch', 'summer']"
+279,Classic Cosmo,['red'],"['ladies-night', 'summer']"
+439,Classic Hornitos Paloma,['pink'],"['bbq', 'spring', 'summer']"
+372,Classic Lemon Drop,['clear'],"['birthday', 'ladies-night', 'summer']"
+102,Classic Manhattan,['brown'],"['birthday', 'fall']"
+386,Classic Margarita,['clear'],['summer']
+358,Classic Mojito,['clear'],"['bbq', 'ladies-night', 'spring', 'summer', 'tropical']"
+324,Classic Rum Punch,['orange'],"['bbq', 'summer', 'tropical']"
+112,Coconut Old Fashioned,['brown'],['tropical']
+488,Coconut Snowball Martini,,"['ladies-night', 'holiday', 'tropical', 'winter']"
+208,Coconut Spritzer,['yellow'],"['summer', 'tropical']"
+159,Cognac Summit,['yellow'],"['birthday', 'ladies-night', 'spring', 'valentines-day', 'wedding']"
+254,Condopolitan,['red'],"['ladies-night', 'fall', 'spring']"
+29,Courvoisier Classic,['brown'],"['ladies-night', 'new-years', 'wedding']"
+134,Courvoisier Gala,['yellow'],"['fall', 'spring', 'summer']"
+303,Courvoisier Old Fashioned,['orange'],
+42,Courvoisier Sidecar,['brown'],"['ladies-night', 'new-years', 'wedding']"
+341,Cran Tropic-Tini,['orange'],"['summer', 'tropical']"
+264,Cran-Apple Martini,['red'],"['birthday', 'ladies-night', 'fall', 'thanksgiving']"
+243,Cranberry Cooler,['red'],"['fall', 'thanksgiving', 'thanksgiving']"
+227,Cranberry Mojito,['red'],"['christmas', 'fall', 'holiday', 'winter']"
+165,Crisp Apple Ade,['yellow'],['fall']
+41,Crusta,['brown'],
+211,"Cruzan
+Spiced Apple Cider",['red'],"['fall', 'halloween', 'holiday', 'winter']"
+332,Cruzan 9 Punch,['orange'],"['bbq', 'ladies-night', 'summer']"
+193,Cruzan 9 Tea,['yellow'],"['brunch', 'spring', 'summer']"
+198,Cruzan Banana Split,['yellow'],"['summer', 'tropical']"
+212,Cruzan Cider Punch,['red'],"['fall', 'halloween', 'holiday', 'winter']"
+199,Cruzan Colada,['yellow'],"['summer', 'tropical']"
+376,Cruzan Confusion,['clear'],"['bbq', 'summer', 'tropical']"
+17,Cruzan Coquito,['brown'],"['christmas', 'holiday', 'winter']"
+222,Cruzan Cranberry Cider Punch,['red'],"['christmas', 'fall', 'holiday', 'thanksgiving', 'winter']"
+361,Cruzan Daiquiri,['clear'],"['summer', 'tropical']"
+149,Cruzan Mai Tai,['yellow'],"['bbq', 'summer', 'tropical']"
+384,Cruzan Peach Sangria,['clear'],"['bbq', 'spring', 'summer']"
+10,Cruzan Safe Harbor,['brown'],"['bbq', 'christmas', 'holiday', 'summer']"
+327,Cruzan Sidecar,['orange'],['ladies-night']
+381,Cruzan Summer Breeze,['clear'],"['bbq', 'summer']"
+63,Cuba Libre,['brown'],['bbq']
+507,Cubbie Blue,,['game-day']
+404,Cucumber Cooler,['green'],"['spring', 'summer']"
+363,Cucumber Martini,['clear'],"['ladies-night', 'summer']"
+403,Cucumber Melon Margarita,['green'],"['spring', 'summer']"
+443,Cucumber Watermelon Martini,['pink'],"['ladies-night', 'summer']"
+235,Dad’s Bourbon Mary,['red'],"['brunch', 'game-day']"
+59,Dancing with the Devil,['brown'],['summer']
+157,David Beams 1838 Cocktail,['yellow'],"['bbq', 'fall', 'game-day', 'thanksgiving', 'winter']"
+256,DeKuyper Banana Split,['red'],['birthday']
+399,DeKuyper End of the Rainbow,['green'],"['game-day', 'spring']"
+46,DeKuyper Fuzzy Beam,"['brown', 'brown']",['spring']
+512,DeKuyper Mintini,,"['holiday', 'winter']"
+120,Death and Taxes,['brown'],['spring']
+197,Delusion,['yellow'],"['summer', 'tropical']"
+150,Derby Fizz,['yellow'],"['bbq', 'spring']"
+152,Derby Spritzer,['yellow'],"['bbq', 'spring']"
+57,Dernier Cri,['brown'],"['fall', 'spring']"
+304,Devil in the Morning,['orange'],"['brunch', 'summer']"
+393,Dirty Martini,['clear'],
+283,Don Francisco Margarita,['orange'],"['bbq', 'birthday', 'spring', 'summer']"
+292,Double Oak Whiskey Smash,['orange'],"['bbq', 'fall', 'summer']"
+263,Double Razzmatazz Grape Martini,['red'],"['ladies-night', 'new-years', 'summer', 'summer', 'summer']"
+454,Downward Facing Daiquiri,['pink'],['summer']
+70,Dragons Toe,['brown'],"['bbq', 'spring']"
+82,Dram Sour,['brown'],"['fall', 'holiday']"
+35,Dry Rye Manhattan,['brown'],
+286,EFFEN Blood Orange Crush,['orange'],"['fall', 'holiday', 'thanksgiving']"
+144,EFFEN Blood Orange Mimosa,['yellow'],"['ladies-night', 'brunch', 'fall']"
+355,EFFEN Green Apple Cooler,['clear'],"['fall', 'spring', 'summer']"
+356,EFFEN Raspberry Lemonade,['clear'],"['brunch', 'summer']"
+445,El Bombin,['pink'],['ladies-night']
+220,El Tesoro Paloma,['red'],"['bbq', 'christmas', 'holiday', 'summer']"
+401,El Tesoro Tommy's Margarita,['green'],['fall']
+369,Elderflower Margarita,['clear'],"['bbq', 'ladies-night']"
+368,Elderflower Martini,['clear'],"['birthday', 'ladies-night', 'summer', 'summer', 'summer', 'wedding']"
+496,Elf's Kiss,,"['christmas', 'holiday']"
+409,Emerald Daiquiri,['green'],"['spring', 'summer', 'tropical']"
+201,Endless Summer Punch,['yellow'],"['bbq', 'summer']"
+0,Espresso Martini,['brown'],"['birthday', 'fall', 'new-years', 'winter']"
+155,Everblooming Fizz,['yellow'],"['bbq', 'spring', 'summer']"
+105,Fall Sangria,['brown'],"['bbq', 'birthday', 'fall']"
+88,Fancy Bourbon Punch,['brown'],"['bbq', 'birthday', 'ladies-night', 'brunch', 'christmas', 'fall', 'thanksgiving', 'winter']"
+241,Fire Apple,['red'],['fall']
+55,Fire Drop,['brown'],"['bbq', 'spring', 'summer']"
+54,Fireside Coco,['brown'],"['christmas', 'fall', 'holiday', 'winter']"
+168,First Class,['yellow'],['ladies-night']
+238,Flirty Fizz,['red'],"['ladies-night', 'holiday', 'valentines-day']"
+126,French 75,['yellow'],"['birthday', 'holiday', 'new-years', 'wedding']"
+416,Fresh Midori Sour,['green'],['tropical']
+61,Front Porch Peach Tea,['brown'],"['bbq', 'spring', 'summer']"
+448,Fruitcake,['pink'],['christmas']
+316,Fuzzy Beam,['orange'],"['brunch', 'summer']"
+417,Fuzzy Melon Ball,['green'],"['ladies-night', 'spring']"
+508,Game Day Peach Sour,,['game-day']
+411,Garden Delight,['green'],"['spring', 'summer', 'wedding']"
+127,Gimlet,"['yellow', 'yellow']","['birthday', 'brunch', 'spring', 'summer']"
+354,Gin & Tonic,['clear'],
+139,Gin Basil Smash,"['yellow', 'green']","['bbq', 'brunch', 'summer']"
+130,Ginger Buck,['yellow'],"['bbq', 'brunch', 'fall', 'spring', 'summer']"
+367,Ginger Martini,['clear'],"['christmas', 'holiday', 'winter']"
+138,Gingerbread Sour,['yellow'],['holiday']
+142,Glasgow Seelbach,['yellow'],['fall']
+277,Grape Cosmo,['red'],"['birthday', 'ladies-night', 'summer']"
+408,Green Eyed Ginger,['green'],
+414,Green Haze,['green'],"['spring', 'summer', 'tropical', 'tropical']"
+429,Green River,['green'],
+161,Guava Spice,['yellow'],"['brunch', 'spring']"
+350,Haku Highball (“Haku-Hi”),['clear'],"['bbq', 'christmas', 'holiday', 'summer']"
+349,Haku Martini,['clear'],
+465,Half & Half Punch,,"['bbq', 'summer']"
+394,Handsome Ginger,['clear'],['summer']
+44,Harbor Punch,['brown'],"['bbq', 'spring', 'summer']"
+117,Hats Off Julep,['brown'],"['spring', 'summer']"
+498,Hemingway Daiquiri,,"['fall', 'spring', 'winter']"
+231,Holiday Wreath,['red'],"['holiday', 'winter']"
+420,Holly Jolly,['green'],"['christmas', 'holiday']"
+259,Holly Jolly Punch,['red'],"['bbq', 'christmas', 'fall', 'holiday', 'thanksgiving']"
+375,Home Team Mojito,['clear'],['spring']
+505,Home Team Punch,,['game-day']
+173,Honey Apple Cucumber,['yellow'],"['brunch', 'spring', 'summer']"
+53,Honey Toddy,['brown'],"['fall', 'holiday', 'winter']"
+119,Horchata,['brown'],['spring']
+270,Hornitos Black Barrel Tequila Manhattan,['red'],"['fall', 'winter']"
+118,Hornitos Black Barrel Tequila Old Fashioned,['brown'],"['fall', 'thanksgiving', 'winter']"
+430,Hornitos Midori Margarita,['green'],"['summer', 'tropical']"
+210,Hornitos Paloma,['red'],"['bbq', 'christmas', 'holiday', 'summer']"
+346,Hornitos Ranch Water,['clear'],"['bbq', 'christmas', 'holiday', 'summer']"
+400,"Hornitos Shot-Taker
+Margarita",['green'],"['fall', 'spring', 'summer', 'winter']"
+111,Hot Buttered Spiced Rum,['brown'],"['fall', 'halloween', 'holiday', 'thanksgiving']"
+28,Hot Buttery Barrel,['brown'],"['fall', 'game-day']"
+192,Hot Toddy,['yellow'],"['fall', 'holiday', 'thanksgiving', 'winter']"
+308,Hurricane,['orange'],"['summer', 'tropical']"
+234,Independence Spice,['red'],['spring']
+336,Island Breeze,['orange'],"['summer', 'tropical']"
+24,It’s Bitter to Be Hoppy,['brown'],"['fall', 'thanksgiving']"
+362,Jalapeño Margarita,['clear'],['summer']
+281,Japanese Gin Sour,['orange'],"['fall', 'summer', 'winter']"
+360,Jim Beam Apple Highball,['clear'],['game-day']
+236,"Jim Beam Black
+Manhattan",['red'],"['game-day', 'winter']"
+27,Jim Beam Black Hot Toddy,['brown'],"['fall', 'winter']"
+307,Jim Beam Collins,['orange'],
+180,Jim Beam Lemonade,['yellow'],"['bbq', 'birthday', 'ladies-night', 'summer']"
+56,Jim Beam Manhattan,['brown'],
+58,Jim Beam Orleans,['brown'],"['fall', 'holiday', 'wedding', 'winter']"
+2,Jim Beam and Ginger Highball,['brown'],"['bbq', 'christmas', 'holiday', 'summer']"
+51,Jim Rickey,['brown'],
+60,Jimmy's Best,['brown'],
+48,Jimmy's Chocolate,['brown'],['summer']
+50,Journeyman,['brown'],['fall']
+387,Juan Collins,['clear'],"['spring', 'summer']"
+297,Juicy Screw,['orange'],"['bbq', 'ladies-night', 'brunch', 'spring', 'summer']"
+178,Kentucky Bubbly,['yellow'],"['ladies-night', 'new-years']"
+433,Kentucky Buck,['pink'],"['bbq', 'spring', 'summer']"
+93,Kentucky Coffee,['brown'],"['fall', 'holiday', 'winter']"
+49,Kentucky Joe,['brown'],['bbq']
+129,Kentucky Made,['yellow'],"['bbq', 'fall', 'spring', 'summer']"
+282,Kentucky Mule,['orange'],"['bbq', 'brunch', 'spring', 'summer']"
+306,Kentucky Sunrise,['orange'],"['brunch', 'spring', 'summer']"
+45,Kentucky Sweet Tea,"['brown', 'brown']","['bbq', 'summer']"
+486,Key Lime Pie Martini,,"['birthday', 'ladies-night', 'summer', 'summer', 'summer', 'tropical']"
+328,Key Lime Sparkler,['orange'],['summer']
+137,Kilbeggan Brosna Sour,['yellow'],['holiday']
+9,Kilbeggan Irish Coffee,['brown'],"['brunch', 'christmas', 'spring', 'winter']"
+293,Kiss Me Cocktail,['orange'],"['birthday', 'holiday', 'new-years']"
+206,Kiwi Zest Martini,['yellow'],"['spring', 'summer']"
+15,Knob Creek Old Fashioned,['brown'],"['fall', 'winter']"
+7,Knob Creek Rye Old Fashioned,['brown'],"['fall', 'holiday', 'thanksgiving']"
+89,La Mela,['brown'],"['fall', 'holiday', 'thanksgiving']"
+26,Laphroaig Back Yard Collins,['brown'],"['bbq', 'fall']"
+228,Laphroaig Blood Mary Queen of Scots,['red'],"['brunch', 'fall']"
+499,Laphroaig Broadbay Sour,,['fall']
+25,Laphroaig Land and Sea,['brown'],"['fall', 'thanksgiving']"
+148,Laphroaig Penicillin,['yellow'],"['fall', 'holiday']"
+395,Last Word,['green'],"['spring', 'summer']"
+184,Lazy Day Colada,['yellow'],"['bbq', 'summer', 'summer', 'tropical']"
+310,Le Provocateur,['orange'],"['birthday', 'ladies-night', 'new-years']"
+14,Legent Blossom Old Fashioned,['brown'],"['fall', 'winter']"
+6,Legent Sea 'New' Fashioned,['brown'],"['fall', 'holiday', 'thanksgiving']"
+291,Lemon Tell You Somethin’ Honey,['orange'],"['fall', 'game-day', 'thanksgiving']"
+382,Light and Tonic,['clear'],"['spring', 'summer']"
+162,Limonlicious,['yellow'],['summer']
+99,Long Island Iced Tea,['brown'],"['bbq', 'summer']"
+30,Louisville Skyline,['brown'],['fall']
+131,Mai Tai,['yellow'],"['spring', 'summer', 'tropical']"
+515,Mai Tequila,,['spring']
+318,Mai Time,['orange'],"['summer', 'tropical']"
+493,Maker's (Non-Egg) Nog,,"['christmas', 'holiday', 'winter']"
+285,"Maker's Mark
+Bourbon Spritz",['orange'],"['brunch', 'spring', 'summer']"
+85,"Maker's Mark  
+  Mint Julep",['brown'],"['spring', 'summer']"
+71,Maker's Mark & Ginger,['brown'],['fall']
+73,Maker's Mark Collins,['brown'],['fall']
+495,Maker's Mark Eggnog,,"['christmas', 'holiday']"
+13,Maker's Mark Gold Rush,['brown'],"['fall', 'holiday', 'thanksgiving']"
+216,Maker's Mark Hot Apple Cider,['red'],"['fall', 'holiday', 'thanksgiving']"
+83,Maker's Mark Manhattan,['brown'],"['birthday', 'ladies-night', 'fall', 'holiday', 'valentines-day']"
+214,Maker's Mark Merry Berry Buck,['red'],"['bbq', 'christmas', 'holiday', 'summer']"
+86,Maker's Mark Mojito,['brown'],"['bbq', 'fall', 'summer']"
+284,Maker's Mark Paper Plane,['orange'],"['fall', 'winter']"
+74,Maker's Mark Presbyterian,['brown'],['fall']
+75,Maker's Mark Redhead,['brown'],"['fall', 'thanksgiving']"
+76,Maker's Mark Sour,['brown'],"['birthday', 'ladies-night', 'fall']"
+77,Maker's Mark Summer Breeze,['brown'],['summer']
+72,Maker's Mark and Kumquat Marmalade,['brown'],['fall']
+78,Maker's Mash,['brown'],"['bbq', 'summer']"
+312,Maker's Mistletoe,['orange'],"['christmas', 'fall', 'holiday']"
+313,Makerita,['orange'],"['ladies-night', 'summer']"
+309,Man O' War,['orange'],"['birthday', 'ladies-night', 'fall', 'spring', 'wedding']"
+276,Mango Cran-Tini,['red'],"['ladies-night', 'summer', 'tropical']"
+333,Mango Hurricane,['orange'],"['bbq', 'summer', 'tropical']"
+189,Mango Mojito,['yellow'],"['summer', 'tropical']"
+177,Mango Rum Margarita,['yellow'],"['spring', 'summer']"
+295,Mango Sunset,['orange'],"['bbq', 'spring', 'summer', 'tropical']"
+115,Maple Leaf,['brown'],"['fall', 'thanksgiving']"
+406,Melon Ball,['green'],"['ladies-night', 'summer', 'tropical']"
+230,Melon Berry Mist,['red'],"['bbq', 'spring', 'summer']"
+405,Melon Cooler,['green'],"['brunch', 'spring']"
+261,Melon Creek Martini,['red'],"['bbq', 'ladies-night', 'summer', 'summer', 'summer']"
+422,Melon Splash,['green'],"['bbq', 'birthday', 'summer']"
+388,Mexican Julep,['clear'],"['spring', 'summer']"
+121,Mexican Mule,['brown'],"['bbq', 'summer']"
+392,Midnight's Kiss,['clear'],['new-years']
+187,Midori Cactus Juice,['yellow'],
+95,Midori Cider,['brown'],"['bbq', 'fall', 'summer']"
+410,Midori Jim and Ginger,['green'],"['bbq', 'spring', 'summer']"
+431,Midori Margarita,['green'],
+419,Midori Mistletoe,['green'],"['christmas', 'holiday']"
+418,Midori Orange and Sparkling,['green'],"['new-years', 'spring', 'summer']"
+396,Midori Pot of Gold,['green'],
+421,Midori Sparkle,['green'],"['birthday', 'ladies-night', 'holiday', 'new-years', 'summer']"
+413,Midori Splice,['green'],['tropical']
+415,Midori and Ginger,['green'],['bbq']
+407,Midori and Ginger Beer,['green'],['summer']
+489,Minted Joe,,['brunch']
+427,Mintini Martini,['green'],"['birthday', 'christmas', 'holiday', 'winter']"
+123,Mocha Razz-Tini,['brown'],"['birthday', 'holiday', 'valentines-day', 'winter']"
+365,Moscow Mule,['clear'],"['bbq', 'spring', 'summer']"
+64,Mudslide,['brown'],"['birthday', 'ladies-night', 'summer']"
+182,Nectarita,['yellow'],"['bbq', 'birthday', 'summer', 'summer', 'summer']"
+224,Negroni,['red'],
+257,New England Apple Pie,['red'],"['fall', 'holiday', 'thanksgiving']"
+116,New Fashioned,['brown'],
+196,Nil Fashioned,['yellow'],['summer']
+451,Oatmeal Cookie,['pink'],"['birthday', 'ladies-night', 'spring']"
+84,Oh Henry,['brown'],"['bbq', 'fall', 'winter']"
+47,Old '97,"['brown', 'brown']","['fall', 'winter']"
+90,Old Fashioned,['brown'],"['bbq', 'fall', 'thanksgiving']"
+207,Ooh La La Lemon,['yellow'],"['birthday', 'ladies-night', 'spring', 'summer']"
+339,Orange Coco-Naut Cosmos,['orange'],"['summer', 'tropical']"
+340,Orange Dreamsicle,['orange'],['summer']
+288,Orangesicle,['orange'],['game-day']
+239,Orchard Twist,['red'],['fall']
+441,Paloma,['pink'],"['bbq', 'spring', 'summer']"
+377,Paradise Punch,['clear'],"['summer', 'tropical']"
+237,Paris Dream,['red'],"['ladies-night', 'holiday', 'valentines-day']"
+460,Paris Escape,['pink'],"['ladies-night', 'summer', 'valentines-day', 'wedding']"
+167,Passion Car,['yellow'],['fall']
+194,Passion Fruit Passport,['yellow'],['summer']
+385,Peach Daiquiri,['clear'],"['spring', 'summer']"
+124,Peach Iced Tea,['brown'],"['bbq', 'brunch', 'fall']"
+179,Peach Lemonade Spritzer,['yellow'],"['bbq', 'birthday', 'ladies-night', 'summer', 'wedding']"
+325,Peach Mojito,['orange'],"['spring', 'summer']"
+301,Peach Old Fashioned,['orange'],['fall']
+374,Peach Sangria,['clear'],['spring']
+471,Peach Tea,,"['bbq', 'summer']"
+104,Peach Whiskey Sour,['brown'],"['bbq', 'birthday', 'spring', 'summer']"
+383,Peach on the Beach,['clear'],"['summer', 'tropical']"
+371,Peachtree Bellini,['clear'],"['birthday', 'ladies-night', 'brunch', 'holiday', 'new-years', 'spring', 'summer', 'valentines-day', 'wedding']"
+322,Peachtree Martini,['orange'],"['ladies-night', 'spring']"
+391,Peachy Keen,['clear'],"['spring', 'summer']"
+96,Peanut Butter Cup Martini,['brown'],"['birthday', 'halloween', 'holiday']"
+122,Peppermint Hot Chocolate,['brown'],"['christmas', 'holiday', 'winter']"
+337,Pequeña Colada,['orange'],"['summer', 'tropical']"
+200,Pina Colada Martini,['yellow'],"['spring', 'summer', 'tropical']"
+181,Pina Punch,['yellow'],"['bbq', 'brunch', 'fall', 'spring', 'summer']"
+151,Pineapple Crush,['yellow'],"['bbq', 'spring', 'summer', 'tropical']"
+275,Pineapple Razztini,['red'],"['ladies-night', 'summer', 'tropical']"
+191,Pineapple Smash,['yellow'],"['summer', 'tropical']"
+461,Pink Pineapple-Tini,['pink'],"['ladies-night', 'summer', 'tropical']"
+218,Pinnacle Black Widow Martini,['red'],"['fall', 'halloween']"
+223,Pinnacle Holly Jolly Punch,['red'],"['christmas', 'fall', 'holiday', 'thanksgiving', 'winter']"
+348,Pinnacle Mule,['clear'],"['birthday', 'christmas', 'holiday', 'summer']"
+16,Pinnacle Peppermint Hot Chocolate,['brown'],"['christmas', 'holiday', 'winter']"
+437,Pinnacle Raspberry Lemonade,['pink'],['summer']
+462,Pinnacle Summer Breeze,['pink'],"['bbq', 'ladies-night', 'brunch', 'summer']"
+516,Piña Colada,,"['summer', 'tropical']"
+330,Planter's Punch,['orange'],"['summer', 'tropical']"
+477,Pool Party Punch,,"['birthday', 'summer']"
+204,Premier Margarita,['yellow'],"['spring', 'summer']"
+440,Prickly Pink Margarita,['pink'],"['fall', 'spring', 'summer', 'tropical']"
+34,Pumpkin Bourbon Cider,['brown'],"['fall', 'winter']"
+106,Pumpkin Pie Martini,['brown'],"['fall', 'halloween', 'holiday', 'thanksgiving']"
+18,Pumpkin Spice White Russian,['brown'],['fall']
+482,Purple Haze Martini,,"['birthday', 'halloween']"
+267,Razzmatazz Sangria,['red'],"['bbq', 'summer', 'summer', 'summer']"
+107,Razzmatazz Truffle Martini,['brown'],"['birthday', 'ladies-night', 'spring']"
+274,Red Greyhound Pinn-Tini,['red'],"['ladies-night', 'holiday', 'spring', 'valentines-day']"
+175,Red Stag Half & Half,['yellow'],"['bbq', 'fall', 'game-day', 'spring']"
+108,Red Velvet Cake Martini,['brown'],"['birthday', 'ladies-night', 'holiday', 'valentines-day']"
+225,Red Zone,['red'],['game-day']
+21,Rob Roy,['brown'],['fall']
+352,Roku Gin Sonic,['clear'],"['bbq', 'christmas', 'holiday', 'summer']"
+97,Root Beer Freeze,['brown'],['birthday']
+269,Ruby Sparkler,['red'],['summer']
+190,Rum Breeze,['yellow'],"['birthday', 'summer', 'tropical']"
+446,Rum Runner,['pink'],"['summer', 'tropical']"
+146,Rye Opener,['yellow'],['fall']
+147,Rye Squeeze,['yellow'],['fall']
+39,Rye in Paradise,['brown'],['fall']
+476,S'mmmores,,"['bbq', 'fall', 'summer']"
+219,SQRRL An Apple A Day,['red'],"['christmas', 'fall', 'game-day', 'thanksgiving', 'winter']"
+11,SQRRL Carajillo,['brown'],"['bbq', 'brunch', 'wedding']"
+12,SQRRL PB Manhattan,['brown'],"['bbq', 'holiday', 'winter']"
+215,SQRRL PB&J Shot,['red'],['game-day']
+135,SQRRL Top Banana,['yellow'],"['bbq', 'birthday', 'brunch', 'fall', 'summer', 'tropical']"
+163,Samba Margarita,['yellow'],
+203,Sauza 901 Club,['yellow'],['fall']
+519,Sauza Blue,,['summer']
+143,Sauza Cilantro Jalapeno Margarita,['yellow'],"['fall', 'spring', 'summer']"
+353,Sauza Classic Margarita,['clear'],['summer']
+398,Sauza Mexican Paloma,['green'],"['fall', 'summer']"
+373,Sauza Peach Margarita,['clear'],['bbq']
+266,Sauza Razzmatazz Margarita,['red'],"['bbq', 'summer', 'summer', 'summer']"
+255,Sauza Strawberry Margarita,['red'],"['bbq', 'summer']"
+459,Sauza Strawberry Sparkler,['pink'],['summer']
+458,Sauza Watermelon Margarita,['pink'],"['bbq', 'summer']"
+1,Sazerac,['brown'],['winter']
+444,Sex On The Beach,['pink'],"['ladies-night', 'summer']"
+442,Shark's Tooth,['pink'],['tropical']
+160,Shining Light Spice,['yellow'],
+503,Sideline Sipper,,['game-day']
+347,Sipsmith Gin and Tonic,['clear'],"['bbq', 'christmas', 'holiday', 'summer']"
+133,Sipsmith Martini,['yellow'],"['fall', 'holiday', 'thanksgiving']"
+213,Sipsmith Negroni,['red'],"['fall', 'winter']"
+280,Skinnygirl Bloody Mary,['red'],['brunch']
+370,Slippery Slide,['clear'],"['ladies-night', 'christmas', 'holiday', 'winter']"
+320,Sloe Gin Fizz,['orange'],"['bbq', 'birthday', 'summer']"
+329,Slowpoke Shandy,['orange'],"['game-day', 'summer']"
+326,Smashin' Passion,['orange'],"['summer', 'tropical']"
+3,Smoked Maple Old Fashioned,['brown'],"['fall', 'holiday', 'thanksgiving']"
+484,Smore-Tini,,"['birthday', 'fall']"
+494,Snow Cap,,"['christmas', 'holiday', 'winter']"
+402,Sour Apple Highball,['green'],['game-day']
+428,Sour Apple Popsicle Martini,['green'],"['birthday', 'ladies-night', 'summer']"
+252,Spaghetti Western,['red'],['birthday']
+209,Sparkling Berry Sangria,['red'],"['bbq', 'birthday', 'brunch', 'spring', 'summer', 'valentines-day', 'wedding']"
+154,Sparkling Cherry Sangria,['yellow'],"['bbq', 'spring', 'summer']"
+169,Sparkling Cognac,['yellow'],"['ladies-night', 'new-years', 'wedding']"
+32,Spiced Cherry Sipper,['brown'],
+298,Spiced Christmas Punch,['orange'],"['fall', 'holiday', 'winter']"
+33,Spiced Cocoa,['brown'],['winter']
+380,Spiced Holly Highball,['clear'],"['christmas', 'fall', 'holiday', 'thanksgiving']"
+156,Spicy Cucumber Margarita,['yellow'],"['bbq', 'spring', 'summer']"
+98,Spicy Hot Chocolate,['brown'],"['holiday', 'new-years', 'valentines-day', 'winter']"
+509,Spider's Kiss,,['halloween']
+183,Spring Sangria,['yellow'],"['bbq', 'brunch', 'spring']"
+171,Stars & Stripes Spiced Ice,['yellow'],"['bbq', 'summer']"
+273,Stars and Stripes Bloody Mary,['red'],"['bbq', 'brunch', 'summer']"
+136,Still Steam,['yellow'],"['fall', 'holiday', 'winter']"
+464,Strawberry Basil,['pink'],"['bbq', 'summer']"
+379,Strawberry Basil Spritzer,['clear'],"['ladies-night', 'spring', 'summer']"
+436,Strawberry Crush,['pink'],"['birthday', 'brunch', 'valentines-day', 'wedding']"
+246,Strawberry Daiquiri,['red'],"['ladies-night', 'summer', 'tropical']"
+447,Strawberry Julep,['pink'],"['birthday', 'ladies-night', 'spring', 'summer']"
+202,Strawberry Lemonade Mojito,['yellow'],"['bbq', 'brunch', 'spring', 'summer']"
+110,Strawberry Mai Tai,['brown'],"['summer', 'tropical']"
+378,Strawberry Rosemary Punch,['clear'],"['ladies-night', 'summer']"
+452,Strawberry Tease Martini,['pink'],"['birthday', 'ladies-night', 'new-years', 'tropical', 'tropical']"
+456,Sugar Pop Martini,['pink'],"['birthday', 'ladies-night', 'spring', 'valentines-day']"
+466,Summer Fish Bowl,,"['bbq', 'summer']"
+251,Summer Mash Up,['red'],"['bbq', 'summer', 'tropical']"
+278,Sunday Funday Bloody Mary,['red'],"['brunch', 'game-day']"
+490,Sunrise,,"['brunch', 'spring', 'summer']"
+268,Sunset Daiquiri,['red'],"['summer', 'tropical']"
+389,Sunset Martini,['clear'],"['ladies-night', 'summer']"
+125,Sunset Tea,['brown'],['summer']
+114,Take 9,['brown'],
+518,Tequila Baybreeze,,"['summer', 'tropical']"
+294,Tequila Sunrise,['orange'],"['brunch', 'tropical']"
+240,Tequiliano,['red'],
+435,The Berry Thought of You,['pink'],"['birthday', 'brunch', 'spring', 'valentines-day', 'wedding']"
+311,The Brown Derby,['orange'],"['birthday', 'ladies-night', 'ladies-night', 'fall']"
+205,The Burgundy,['yellow'],
+91,The Chee Chee,['brown'],"['bbq', 'fall', 'thanksgiving']"
+302,The Contemporary,['orange'],['fall']
+244,The Devil & Miss Mary,['red'],['brunch']
+92,The Fiscal Agent,['brown'],['fall']
+79,The Lion & The Lamb,['brown'],['fall']
+514,The Money Maker,,['new-years']
+262,The Raspberry Julep,['red'],"['ladies-night', 'spring', 'summer']"
+174,The Rider,['yellow'],"['brunch', 'fall', 'spring']"
+247,The Samuels,['red'],"['birthday', 'ladies-night', 'fall', 'thanksgiving']"
+338,The Summer Friday,['orange'],"['summer', 'tropical']"
+250,The Unnecessary Noise,['red'],"['bbq', 'fall', 'thanksgiving']"
+287,The Wheel,['orange'],"['fall', 'holiday', 'winter']"
+434,Tickled Pink,['pink'],"['birthday', 'brunch', 'spring', 'valentines-day', 'wedding']"
+485,Toffee Drop Martini,,"['birthday', 'halloween', 'holiday', 'winter']"
+351,Toki Highball,['clear'],"['bbq', 'christmas', 'holiday', 'summer']"
+343,Tokyo Collins,['clear'],"['bbq', 'brunch', 'spring', 'summer']"
+342,Tom Collins,['clear'],"['bbq', 'brunch', 'spring', 'summer']"
+37,Tree Trimmer,['brown'],['holiday']
+438,Tres Gen Paloma,['pink'],['summer']
+158,Tropical Spice,['yellow'],"['bbq', 'game-day', 'summer', 'tropical']"
+463,Vanilla Cream Berry-Tini,['pink'],"['ladies-night', 'spring', 'valentines-day']"
+344,Vesper,['clear'],"['fall', 'spring', 'summer', 'winter']"
+357,Vodka Beast,['clear'],['birthday']
+176,Vodka Collins,['yellow'],['summer']
+364,Vodka Gimlet,['clear'],['summer']
+164,Vodka Lemonade,['yellow'],"['bbq', 'summer']"
+334,Voodoo Hurricane,['orange'],"['ladies-night', 'summer', 'tropical']"
+319,Watermelon Mai Tai,['orange'],"['bbq', 'birthday', 'summer', 'summer', 'tropical']"
+455,Watermelon Margarita,['pink'],"['bbq', 'birthday']"
+449,Watermelon Martini,['pink'],"['bbq', 'ladies-night', 'summer']"
+453,Watermelon Pucker,['pink'],['bbq']
+226,Watermelon Rush,['red'],['game-day']
+195,Weekenders' Punch,['yellow'],"['bbq', 'birthday', 'summer']"
+87,Whisky Smash,['brown'],['fall']
+366,White Chocolate Raspberry Martini,['clear'],"['birthday', 'ladies-night', 'holiday', 'valentines-day', 'winter']"
+513,White Russian,,"['holiday', 'winter']"
+140,Yellowhammer,['yellow'],['game-day']
+511,Yule Nog,,"['holiday', 'winter']"
+94,Yuzu Toddy,['brown'],"['fall', 'holiday', 'thanksgiving', 'winter']"
+300,Zarza,['orange'],
+290,Zombie,['orange'],"['fall', 'halloween']"

@@ -1,166 +1,55 @@
-body {
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Noto Sans KR';
-  font-weight:300;
-  background-color: #ede8e2;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
 }
 
-.test-container { /* 폼 전체 */
-margin-top: 12.5vh;
-width: 60vw;
-text-align: center;
+.ques1-container {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: aquamarine;
 }
 
-.title {
-height: 40px;
-text-align: center;
-line-height: 40px;
-
+.pink-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #ff69b4; /* Plain pink color */
+  color: #fff;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
 }
 
-#btn,
-#subbtn { /* 이동 버튼 */
-width: 80px;
-height: 40px;
-margin-top: 20px;
-border: 2px solid rgb(113, 89, 69);
-border-radius: 10px;
-background: none;
-color: rgb(113, 89, 69);
-font-size: 12px;
-letter-spacing: 1zpx;
-cursor: pointer;
-transition: 0.3s ease;
+.pink-button:nth-child(1) {
+  animation-delay: 0.2s; /* Adjust the delay for the first button */
 }
 
-.fieldbox { /* 선택 박스 container */
-display: flex;
-margin: auto;
-height: 61vh;
-margin-top: 3vh;
+.pink-button:nth-child(2) {
+  animation-delay: 0.4s; /* Adjust the delay for the second button */
 }
 
-.fieldbox2 { /* 선택 박스 container */
-display: flex;
-margin: auto;
-height: 61vh;
-margin-top: 3vh;
-flex-direction: column;
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(50px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
 }
 
-.field1:active,
-.field1.active,
-.field2:active,
-.field2.active,
-.field3:active,
-.field3.active {
-border: 4px solid rgb(74, 117, 73);
-color: rgb(74, 117, 73);
-
-}
-
-.row-wrap {
-margin: auto;
-}
-
-.field-content {
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-}
-
-.field3 > div > img {
-width: 5vw;
-margin-bottom: 3vh;
-}
-
-.field3 {
-width: 170px;
-height: 170px;
-margin: auto;
-border: 4px solid rgb(165, 165, 165);
-background: none;
-font-size: 15px;
-cursor: pointer;                        
-position: relative;
-}
-
-.row1{
-margin-bottom: 5px;
-}
-
-.field1,
-.field2 {
-width: 200px;
-height: 270px;
-margin: auto;
-border: 4px solid rgb(165, 165, 165);
-background: none;
-font-size: 15px;
-color: rgb(125, 125, 125);
-cursor: pointer;
-align-items: center;
-justify-content: center;
-position: relative;
-}
-
-.hidden {
-display: none;
-}
-
-.test-container .form-outer {
-width: 100%;
-overflow: hidden;
-}
-
-.form-outer form {
-display: flex;
-width: 400%;
-}
-
-.form-outer form .page {
-width: 25%;  
-}
-
-.field-btns {
-display: flex;
-justify-content: space-between;
-}
-
-.hiddenbtn {
-visibility: hidden;
-}
-
-/* 커스텀 슬라이드 바 */
-.slidecontainer {
-width: 100%;
-margin: auto;
-margin-bottom: 8vh;
-}
-
-.slider {
-transform: rotate(270deg);
--webkit-appearance: none; /* 기본 CSS 스타일을 적용하지 않기 위해서 */
-width: 100%; /* 슬라이더 길이 */
-height: 1vw; /* 슬라이더 두께 */
-border-radius: 5px; /* 슬라이더 모서리를 약간 둥글게 */
-background: #b4b4b4; /* 슬라이더 색상 */
-outline: none; /* 슬라이더 테두리 없이 */
-margin-bottom: 17vh;
-}
-
-/* 슬라이더 핸들(클릭해서 드래그하는 부분) 커스텀 
-(Chrome, Opera, Safari, Edge 브라우저를 위해서는 -webkit-을,
-Firefox 브라우저를 위해서는 -moz- 를 사용하세요 */
-.slider::-webkit-slider-thumb {
--webkit-appearance: none; /* 기본 CSS 스타일을 적용하지 않기 위해서 */
-appearance: none; /* 기본 CSS 스타일을 적용하지 않기 위해서 */
-width: 25px; /* 슬라이더 핸들 길이 */
-height: 25px; /* 슬라이더 핸들 높이 */
-border-radius: 50%; /* 핸들 모양을 원모양으로 만들기 위함 */
-background: rgb(74, 117, 73); /* 슬라이더 핸들 색상 */
-cursor: pointer; /* 슬라이더 핸들에 마우스를 갖다대면 포인터로 변경 */
+.pink-button:hover,
+.pink-button.active {
+  background-color: #d83a87; /* Darker pink color on hover and click */
 }

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendation Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='test.css') }}">
+    
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <form id="form1" action="/" method="post">
+        <h1>What flavor do you like?</h1>
+
+        <div class="ques1-container">
+            <button type="button" class="pink-button" onclick="showColors('sweet')">Sweet</button>
+            <button type="button" class="pink-button" onclick="showColors('sour')">Sour</button>
+        </div>
+    </form>
+
+    <form id="form2" action="/" method="post" class="hidden">
+        <input type="hidden" id="flavor" name="flavor" value="">
+        <h1>What color do you like?</h1>
+        <button type="submit" name="color" value="pink">Pink</button>
+        <button type="submit" name="color" value="brown">Brown</button>
+    </form>
+    </div>
+
+    <script>
+        function showColors(flavor) {
+            document.getElementById('flavor').value = flavor;
+            document.getElementById('form1').classList.add('hidden');
+            document.getElementById('form2').classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>

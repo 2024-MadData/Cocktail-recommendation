@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cocktail Pages</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='cocktail.css') }}">
+</head>
+<body>
+    <div class="card-container">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card" style="width: 18rem;">
+                    <img src="{{ url_for('static', filename='/images/' ~ sub1_cocktail['Name'] ~ '.png') }}" class="card-img-top subimg">
+                    <div class="card-body">
+                        <h5 class="card-title"><b>{{sub1_cocktail["Name"]}}</b></h5>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Main spirit: {{sub1_cocktail["Main Spirit"]}}</li>
+                        <li class="list-group-item">Flavor: {{sub1_cocktail["Flavor"]}}</li>
+                        <li class="list-group-item">Occasions: {{sub1_cocktail["Occasion"]}}</li>
+                    </ul>
+                    <div class="accordion accordion-flush" id="accordion3">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Check the Ingredients
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion3">
+                                <div class="accordion-body">
+                                    {{sub1_cocktail["Ingredients_x"]}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card" style="width: 18rem;">
+                    <img src="{{ url_for('static', filename='/images/' ~ main_cocktail['Name'] ~ '.png') }}" class="card-img-top mainimg">
+                    <div class="card-img-overlay">
+                        <span class="badge text-bg-warning with-shadow">Main</span>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><b>{{main_cocktail["Name"]}}</b></h5>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Main spirit: {{main_cocktail["Main Spirit"]}}</li>
+                        <li class="list-group-item">Flavor: {{main_cocktail["Flavor"]}}</li>
+                        <li class="list-group-item">Occasions: {{main_cocktail["Occasion"]}}</li>
+                    </ul>
+                    <div class="accordion accordion-flush" id="accordion4">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Check the Ingredients
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordion4">
+                                <div class="accordion-body">
+                                    {{main_cocktail["Ingredients_x"]}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="btn-container">
+                            <a href="/" class="btn btn-primary">Take the test again</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">   
+                <div class="card" style="width: 18rem;">
+                    <img src="{{ url_for('static', filename='/images/' ~ sub2_cocktail['Name'] ~ '.png') }}" class="card-img-top subimg">
+                    <div class="card-body">
+                        <h5 class="card-title"><b>{{sub2_cocktail["Name"]}}</b></h5>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Main spirit: {{sub2_cocktail["Main Spirit"]}}</li>
+                        <li class="list-group-item">Flavor: {{sub2_cocktail["Flavor"]}}</li>
+                        <li class="list-group-item">Occasions: {{sub2_cocktail["Occasion"]}}</li>
+                    </ul>
+                    <div class="accordion accordion-flush" id="accordion2">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Check the Ingredients
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion2">
+                                <div class="accordion-body">
+                                    {{sub2_cocktail["Ingredients_x"]}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+    </div>
+
+</body>
+</html>

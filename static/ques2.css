@@ -1,0 +1,51 @@
+.ques2-container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.ques2btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 150px;
+    margin: 7px;
+    background-color: #d5d5d5; /* Plain pink color */
+    color: #000000;
+    border:none;
+    text-decoration: none;
+    opacity: 0;
+    animation: fadeIn 0.5s forwards;
+    transition: background-color 0.3s ease;
+  } .ques2btn:hover,
+  .ques2btn.active {
+    background-color: #adadad; /* Darker pink color on hover and click */
+  }
+
+  .ques2btn span {
+    width: 100%;
+    font-size: 48px;
+  }
+  .ques2btn i {
+    width: 100%;
+    margin-top: 5px;
+    font-size: 40px;
+  }
+
+  /* Style Color Buttons Animation Delay */
+.ques2btn:nth-child(7) {
+    animation-delay: 0.1s; /* Adjust the delay for the first button */
+  } .ques2btn:nth-child(6) {
+    animation-delay: 0.2s; /* Adjust the delay for the first button */
+  } .ques2btn:nth-child(5) {
+    animation-delay: 0.3s; /* Adjust the delay for the first button */
+  } .ques2btn:nth-child(4) {
+    animation-delay: 0.4s; /* Adjust the delay for the first button */
+  } .ques2btn:nth-child(3) {
+    animation-delay: 0.5s; /* Adjust the delay for the first button */
+  } .ques2btn:nth-child(2) {
+    animation-delay: 0.6s; /* Adjust the delay for the second button */
+  } .ques2btn:nth-child(1) {
+    animation-delay: 0.7s; /* Adjust the delay for the second button */
+  }

@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0;
+  }
+
+.card-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-bg-warning {
+   font-size: 100%;
+}
+
+.col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.with-shadow {
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+}

@@ -1,0 +1,178 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.ques1-container {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+/* Style Color Buttons */
+.pink-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #ff69b4; /* Plain pink color */
+  color: #fff;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
+} .pink-button:hover,
+.pink-button.active {
+  background-color: #d83a87; /* Darker pink color on hover and click */
+}
+.red-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #d02828; /* Plain pink color */
+  color: #fff;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
+} .red-button:hover,
+.red-button.active {
+  background-color: #9e1212; 
+}
+.yellow-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #f4ba27; /* Plain pink color */
+  color: #fff;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
+} .yellow-button:hover,
+.yellow-button.active {
+  background-color: #d29c15; 
+}
+.orange-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #ee8020; /* Plain pink color */
+  color: #fff;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
+} .orange-button:hover,
+.orange-button.active {
+  background-color: #cc670f; 
+}
+.green-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #58ac2a; /* Plain pink color */
+  color: #fff;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
+} .green-button:hover,
+.green-button.active {
+  background-color: #40851b; 
+}
+.clear-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #ffffff; /* Plain pink color */
+  color: #000000;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
+} .clear-button:hover,
+.clear-button.active {
+  background-color: #cecece; /* Darker pink color on hover and click */
+}
+.brown-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #684c3a; /* Plain pink color */
+  color: #fff;
+  border:none;
+  text-decoration: none;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+  transition: background-color 0.3s ease;
+} .brown-button:hover,
+.brown-button.active {
+  background-color: #4e3729; /* Darker pink color on hover and click */
+}
+
+/* Style Color Buttons Animation Delay */
+#ques1btn:nth-child(7) {
+  animation-delay: 0.1s; /* Adjust the delay for the first button */
+} #ques1btn:nth-child(6) {
+  animation-delay: 0.2s; /* Adjust the delay for the first button */
+} #ques1btn:nth-child(5) {
+  animation-delay: 0.3s; /* Adjust the delay for the first button */
+} #ques1btn:nth-child(4) {
+  animation-delay: 0.4s; /* Adjust the delay for the first button */
+} #ques1btn:nth-child(3) {
+  animation-delay: 0.5s; /* Adjust the delay for the first button */
+} #ques1btn:nth-child(2) {
+  animation-delay: 0.6s; /* Adjust the delay for the second button */
+} #ques1btn:nth-child(1) {
+  animation-delay: 0.7s; /* Adjust the delay for the second button */
+}
+
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(50px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+
